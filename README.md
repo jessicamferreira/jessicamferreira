@@ -12,4 +12,4 @@
 </div>
   
   ##
-  ![Snake animation](https://github.com/rafaballerini/jessicamferreira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jessicamferreira/jessicamferreira/blob/output/github-contribution-grid-snake.svg)
